@@ -23,3 +23,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: dark
+ 
+assignees:
+  - sserrata
+  - csestito
