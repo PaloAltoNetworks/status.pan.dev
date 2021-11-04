@@ -7,12 +7,16 @@ sites:
     icon: https://raw.githubusercontent.com/PaloAltoNetworks/pan.dev/master/static/img/parent_favicon.png
   - name: xsoar.pan.dev
     url: https://xsoar.pan.dev
+    icon: https://raw.githubusercontent.com/demisto/content-docs/master/static/img/cortexfavicon.png
   - name: prisma.pan.dev
     url: https://prisma.pan.dev
+    icon: https://raw.githubusercontent.com/PaloAltoNetworks/prisma.pan.dev/master/static/img/prismafavicon.png
   - name: panos.pan.dev
     url: https://panos.pan.dev
+    icon: https://raw.githubusercontent.com/PaloAltoNetworks/panos.pan.dev/master/static/img/strata_favicon.png
   - name: gallery.pan.dev
     url: https://gallery.pan.dev
+    icon: icon: https://raw.githubusercontent.com/PaloAltoNetworks/pan.dev/master/static/img/parent_favicon.png
 
 status-website:
   cname: status.pan.dev
