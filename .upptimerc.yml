@@ -4,6 +4,7 @@ repo: status.pan.dev
 sites:
   - name: pan.dev
     url: https://pan.dev
+    icon: https://raw.githubusercontent.com/PaloAltoNetworks/pan.dev/master/static/img/parent_favicon.png
   - name: xsoar.pan.dev
     url: https://xsoar.pan.dev
   - name: prisma.pan.dev
