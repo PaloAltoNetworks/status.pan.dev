@@ -4,18 +4,23 @@ repo: status.pan.dev
 sites:
   - name: pan.dev
     url: https://pan.dev
+    maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/PaloAltoNetworks/pan.dev/master/static/img/parent_favicon.png
   - name: xsoar.pan.dev
     url: https://xsoar.pan.dev
+    maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/demisto/content-docs/master/static/img/cortexfavicon.png
   - name: prisma.pan.dev
     url: https://prisma.pan.dev
+    maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/PaloAltoNetworks/prisma.pan.dev/master/static/img/prismafavicon.png
   - name: panos.pan.dev
     url: https://panos.pan.dev
+    maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/PaloAltoNetworks/panos.pan.dev/master/static/img/strata_favicon.png
   - name: gallery.pan.dev
     url: https://gallery.pan.dev
+    maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/PaloAltoNetworks/pan.dev/master/static/img/parent_favicon.png
 
 status-website:
@@ -29,6 +34,15 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
+  
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
  
 assignees:
   - sserrata
