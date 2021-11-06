@@ -26,10 +26,10 @@ sites:
 status-website:
   cname: status.pan.dev
   logoUrl: https://raw.githubusercontent.com/PaloAltoNetworks/pan.dev/master/static/img/PANW_Parent_Logo_White.svg
-  name: Status (pan.dev)
+  name: ""
   introTitle: "This is the status monitoring page for our family of pan.dev sites."
   navbar:
-    - title: Status (pan.dev)
+    - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
