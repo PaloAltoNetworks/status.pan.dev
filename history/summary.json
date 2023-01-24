@@ -43,9 +43,9 @@
     "url": "https://prisma.pan.dev",
     "icon": "https://raw.githubusercontent.com/PaloAltoNetworks/prisma.pan.dev/master/static/img/prismafavicon.png",
     "slug": "prisma-pan-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 114,
     "timeMonth": 121,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-24": 0
+    }
   },
   {
     "name": "panos.pan.dev",
