@@ -43,19 +43,19 @@
     "url": "https://prisma.pan.dev",
     "icon": "https://raw.githubusercontent.com/PaloAltoNetworks/prisma.pan.dev/master/static/img/prismafavicon.png",
     "slug": "prisma-pan-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 121,
-    "timeDay": 85,
-    "timeWeek": 114,
-    "timeMonth": 121,
+    "timeDay": 82,
+    "timeWeek": 109,
+    "timeMonth": 120,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2023-01-24": 0
+      "2023-01-24": 31
     }
   },
   {
