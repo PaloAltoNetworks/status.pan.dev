@@ -5,15 +5,15 @@
     "icon": "https://raw.githubusercontent.com/PaloAltoNetworks/pan.dev/master/static/img/parent_favicon.png",
     "slug": "pan-dev",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 140,
-    "timeDay": 105,
-    "timeWeek": 86,
-    "timeMonth": 118,
+    "timeDay": 72,
+    "timeWeek": 80,
+    "timeMonth": 116,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2023-01-19": 28
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 72,
-    "timeWeek": 72,
-    "timeMonth": 99,
-    "timeYear": 132,
+    "timeDay": 65,
+    "timeWeek": 67,
+    "timeMonth": 98,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 133,
-    "timeDay": 135,
-    "timeWeek": 92,
-    "timeMonth": 129,
+    "timeDay": 139,
+    "timeWeek": 97,
+    "timeMonth": 128,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2023-01-24": 31
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 155,
-    "timeWeek": 166,
-    "timeMonth": 135,
-    "timeYear": 148,
+    "timeDay": 45,
+    "timeWeek": 82,
+    "timeMonth": 133,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2023-01-27": 17
     }
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 105,
-    "timeWeek": 63,
-    "timeMonth": 90,
+    "timeDay": 48,
+    "timeWeek": 62,
+    "timeMonth": 88,
     "timeYear": 124,
     "dailyMinutesDown": {}
   }
